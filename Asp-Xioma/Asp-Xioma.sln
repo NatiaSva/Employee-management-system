@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asp-Xioma", "Asp-Xioma.csproj", "{C57EE9A3-8562-44A2-8C74-3427954BA0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-xioma", "..\app-xioma\app-xioma.csproj", "{B46CD83F-7027-4E06-B3BA-ABA732A8BA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInfo", "..\UserInfo\UserInfo.csproj", "{F45A5186-A1D7-4103-ABE6-5419125C2B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57EE9A3-8562-44A2-8C74-3427954BA0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57EE9A3-8562-44A2-8C74-3427954BA0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57EE9A3-8562-44A2-8C74-3427954BA0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57EE9A3-8562-44A2-8C74-3427954BA0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46CD83F-7027-4E06-B3BA-ABA732A8BA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46CD83F-7027-4E06-B3BA-ABA732A8BA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46CD83F-7027-4E06-B3BA-ABA732A8BA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46CD83F-7027-4E06-B3BA-ABA732A8BA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45A5186-A1D7-4103-ABE6-5419125C2B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45A5186-A1D7-4103-ABE6-5419125C2B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45A5186-A1D7-4103-ABE6-5419125C2B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45A5186-A1D7-4103-ABE6-5419125C2B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDF7D58-CDEC-4DE4-AAB5-A3870EC3F737}
+	EndGlobalSection
+EndGlobal

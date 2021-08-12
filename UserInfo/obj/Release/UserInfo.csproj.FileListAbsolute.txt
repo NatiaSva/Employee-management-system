@@ -1,0 +1,6 @@
+C:\Users\Nati\source\repos\UserInfo\bin\Release\UserInfo.dll
+C:\Users\Nati\source\repos\UserInfo\bin\Release\UserInfo.pdb
+C:\Users\Nati\source\repos\UserInfo\obj\Release\UserInfo.csprojAssemblyReference.cache
+C:\Users\Nati\source\repos\UserInfo\obj\Release\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nati\source\repos\UserInfo\obj\Release\UserInfo.dll
+C:\Users\Nati\source\repos\UserInfo\obj\Release\UserInfo.pdb

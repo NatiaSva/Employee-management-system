@@ -1,0 +1,5 @@
+C:\Users\Nati\source\repos\UserInfo\bin\Debug\UserInfo.dll
+C:\Users\Nati\source\repos\UserInfo\bin\Debug\UserInfo.pdb
+C:\Users\Nati\source\repos\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nati\source\repos\UserInfo\obj\Debug\UserInfo.dll
+C:\Users\Nati\source\repos\UserInfo\obj\Debug\UserInfo.pdb

@@ -1,0 +1,3 @@
+Language: c#
+Technology: WinForms and ASP.NET core web api
+Database: Sql server(Connected layer)
